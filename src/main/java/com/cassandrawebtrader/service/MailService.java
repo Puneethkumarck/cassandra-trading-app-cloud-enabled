@@ -3,7 +3,6 @@ package com.cassandrawebtrader.service;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.PropertySource;
 import org.springframework.core.env.Environment;
 import org.springframework.integration.annotation.ServiceActivator;
 import org.springframework.mail.MailException;
